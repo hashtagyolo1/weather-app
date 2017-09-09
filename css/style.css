@@ -1,0 +1,16 @@
+.background {
+  margin-top: 20px;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+#tempButton {
+  margin: 0 auto;
+  display: block;
+}
+
+#weatherIcon {
+  margin: 0 auto;
+  display: block;
+}
+
